@@ -24,10 +24,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft Excel-333333?style=flat&logo=microsoft-excel)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SiddheshBangar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Siddhesh's Github Stats">
+<p align="center">
+<a href="https://github.com/SiddheshBangar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SiddheshBangar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiddheshBangar&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
+</p>
