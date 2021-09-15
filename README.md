@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Siddhesh Bangar
-<br>
+<hr size="2" width="90%" color="yellow">
 
 #### ⚡ I am a Student at Vidyalankar Institute of Technology, Wadala
 
