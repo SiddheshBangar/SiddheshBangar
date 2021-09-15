@@ -1,4 +1,4 @@
-# Hey, Siddhesh Bangar here! 👋
+# Hey, Siddhesh Bangar here! <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 #### ⚡ I am a Student at Vidyalankar Institute of Technology, Wadala
 
