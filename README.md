@@ -25,8 +25,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-333333?style=flat&logo=microsoft-excel)&nbsp;
+![Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)&nbsp;
+![Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-333333?style=flat&logo=adobe-lightroom)&nbsp;
+
+
 
 <br>
 
