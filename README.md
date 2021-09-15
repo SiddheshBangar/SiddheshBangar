@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Siddhesh Bangar
 
-#### ⚡ I am a Student and Vidyalankar Institute of Technology, Wadala
+#### ⚡ I am a Student at Vidyalankar Institute of Technology, Wadala
 
 I am keen to learn and explore new technologies, and I am highly interested in working as a Data Analyst. Rather than working, I love to study movies and cinematography.
 
