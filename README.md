@@ -30,12 +30,15 @@
 ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)&nbsp;
 ![Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-333333?style=flat&logo=adobe-lightroom)\
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-333333?style=flat&logo=microsoft-excel)&nbsp;
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-333333?style=flat&logo=google-sheets)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-Postgre%20SQL-333333?style=flat&logo=PostgreSQL)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)\
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)&nbsp;
 ![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-333333?style=flat&logo=ibmwatson)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)&nbsp;
+
 
 
 <br>
