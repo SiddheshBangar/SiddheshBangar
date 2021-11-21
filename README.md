@@ -4,8 +4,8 @@
 
 💡 &nbsp;I like to explore new technologies and do some exploratory data analysis and making some quick insights.\
 🎓 &nbsp;I'm currently studying Computer Science at Vidyalankar Institute of Technology, Wadala.\
-🌱 &nbsp;I'm on track for learning more about Data Science, Machine Learning, and Data Science.\
-✍️ &nbsp;In my free time, I learn and study about Movies Cinematography and Screen Writing as hobbies/interests.\
+🌱 &nbsp;I'm on track for learning more about Data Analytics, Machine Learning, and Data Science.\
+✍️ &nbsp;In my free time, I learn and study about Movies, Cinematography and Screen Writing as hobbies/interests.\
 🎶 &nbsp;As a side passion I am a guitarist and musician, loves to make music.\
 ✉️ &nbsp;You can shoot me an email at siddheshb008@gmail.com! I'll try to respond as soon as I can.
 
@@ -27,6 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)\
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-333333?style=flat&logo=adobe-premiere-pro)&nbsp;
 ![Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-333333?style=flat&logo=adobe-lightroom)\
