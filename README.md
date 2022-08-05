@@ -58,6 +58,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/siddheshbangar"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="siddheshb008@gmail.com"><img src="https://img.shields.io/badge/-siddheshb008@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/yo_sidhu"><img src="https://img.shields.io/badge/-@yo_sidhu-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/sidhu.bangar"><img src="https://img.shields.io/badge/-@SiddheshBangar-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/thatsiddhesh"><img src="https://img.shields.io/badge/-@yo_sidhu-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
