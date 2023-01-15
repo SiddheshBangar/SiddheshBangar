@@ -41,7 +41,9 @@
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/siddheshbangar"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="siddheshb008@gmail.com"><img src="https://img.shields.io/badge/-siddheshb008@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://medium.com/@siddheshb008"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar-333333?style=flat-square&logo=Medium&logoColor=white"/></a>
 <a href="https://instagram.com/thatsiddhesh"><img src="https://img.shields.io/badge/-@thatsiddhesh-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/siddddhesh"><img src="https://img.shields.io/badge/-@siddddhesh-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+<a href="siddheshb008@gmail.com"><img src="https://img.shields.io/badge/-siddheshb008@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
+<a href="https://medium.com/@siddheshb008"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar-333333?style=flat-square&logo=Medium&logoColor=white"/></a>
+<a href="https://sidddhesh.hashnode.dev/"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar's%20Blog-2962FF?style=flat-square&logo=Hashnode&logoColor=white"/></a>
 </p>
