@@ -8,6 +8,8 @@
 - ⚡ Fun fact: I love to draw and play guitar and sing sometimes
 - ✉️ You can drop me an email at siddheshb008@gmail.com
 
+<a href="https://app.daily.dev/siddhesh"><img src="https://github.com/SiddheshBangar/SiddheshBangar/blob/main/devcard.svg" width="300" alt="Siddhesh's Dev Card" align="right"/></a>
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -21,8 +23,6 @@
  <a href="https://medium.com/@siddheshb008"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar-333333?style=flat-square&logo=Medium&logoColor=white"/></a><br>
  <a href="https://sidddhesh.hashnode.dev/"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar's%20Blog-2962FF?style=flat-square&logo=Hashnode&logoColor=white"/></a>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
@@ -32,6 +32,8 @@
 4. 💪 Opened PR [#1551](https://github.com/LAION-AI/Open-Assistant/pull/1551) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
 5. 🗣 Commented on [#24311](https://github.com/mdn/content/issues/24311) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
