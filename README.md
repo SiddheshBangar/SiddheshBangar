@@ -11,6 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is there a Roadmap for Data Science?](https://sidddhesh.hashnode.dev/is-there-a-roadmap-for-data-science)
+- [The Rise of Artificial Intelligence](https://sidddhesh.hashnode.dev/the-rise-of-artificial-intelligence)
+- [AlexNet Architecture Explained](https://sidddhesh.hashnode.dev/alexnet-architecture-explained-b6240c528bd5)
+- [Web Scraping Explained](https://sidddhesh.hashnode.dev/web-scraping-28be42832d40)
+- [LeNet 5 Architecture Explained](https://sidddhesh.hashnode.dev/lenet-5-architecture-explained-3b559cb2d52b)
 <!-- BLOG-POST-LIST:END -->
 
  <a href="https://medium.com/@siddheshb008"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar-333333?style=flat-square&logo=Medium&logoColor=white"/></a><br>
