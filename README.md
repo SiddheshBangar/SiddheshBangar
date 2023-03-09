@@ -20,8 +20,8 @@
 - [LeNet 5 Architecture Explained](https://sidddhesh.hashnode.dev/lenet-5-architecture-explained-3b559cb2d52b)
 <!-- BLOG-POST-LIST:END -->
 
- <a href="https://medium.com/@siddheshb008"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar-333333?style=flat-square&logo=Medium&logoColor=white"/></a><br>
- <a href="https://sidddhesh.hashnode.dev/"><img src="https://img.shields.io/badge/-Siddhesh%20Bangar's%20Blog-2962FF?style=flat-square&logo=Hashnode&logoColor=white"/></a>
+ <a href="https://medium.com/@siddheshb008"><img src="https://img.shields.io/badge/-Medium%20Blog-333333?style=flat-square&logo=Medium&logoColor=white"/></a>
+ <a href="https://sidddhesh.hashnode.dev/"><img src="https://img.shields.io/badge/-Hashnode%20Blog-2962FF?style=flat-square&logo=Hashnode&logoColor=white"/></a>
 
 ### ⚡ Recent GitHub Activity
 
