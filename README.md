@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to draw and play guitar and sing sometimes
 - ✉️ You can drop me an email at siddheshb008@gmail.com
 
-<a href="https://app.daily.dev/siddhesh"><img src="https://github.com/SiddheshBangar/SiddheshBangar/blob/main/devcard.svg" width="300" alt="Siddhesh's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/siddhesh"><img src="https://github.com/SiddheshBangar/SiddheshBangar/blob/main/devcard.svg" width="250" alt="Siddhesh's Dev Card" align="right"/></a>
 
 ### 📕 Latest Blog Posts
 
