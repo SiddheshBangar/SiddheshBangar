@@ -26,11 +26,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5350](https://github.com/EddieHubCommunity/LinkFree/issues/5350) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#1](https://github.com/SiddheshBangar/SiddheshBangar/pull/1) in [SiddheshBangar/SiddheshBangar](https://github.com/SiddheshBangar/SiddheshBangar)
-3. 🗣 Commented on [#24314](https://github.com/mdn/content/issues/24314) in [mdn/content](https://github.com/mdn/content)
+1. 💪 Opened PR [#12129](https://github.com/mdn/translated-content/pull/12129) in [mdn/translated-content](https://github.com/mdn/translated-content)
+2. ❗️ Opened issue [#5350](https://github.com/EddieHubCommunity/LinkFree/issues/5350) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🎉 Merged PR [#1](https://github.com/SiddheshBangar/SiddheshBangar/pull/1) in [SiddheshBangar/SiddheshBangar](https://github.com/SiddheshBangar/SiddheshBangar)
 4. 🗣 Commented on [#24314](https://github.com/mdn/content/issues/24314) in [mdn/content](https://github.com/mdn/content)
-5. ❌ Closed PR [#1551](https://github.com/LAION-AI/Open-Assistant/pull/1551) in [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)
+5. 🗣 Commented on [#24314](https://github.com/mdn/content/issues/24314) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
