@@ -26,10 +26,10 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12129](https://github.com/mdn/translated-content/pull/12129) in [mdn/translated-content](https://github.com/mdn/translated-content)
-2. ❗️ Opened issue [#5350](https://github.com/EddieHubCommunity/LinkFree/issues/5350) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🎉 Merged PR [#1](https://github.com/SiddheshBangar/SiddheshBangar/pull/1) in [SiddheshBangar/SiddheshBangar](https://github.com/SiddheshBangar/SiddheshBangar)
-4. 🗣 Commented on [#24314](https://github.com/mdn/content/issues/24314) in [mdn/content](https://github.com/mdn/content)
+1. ❗️ Opened issue [#844](https://github.com/dailydotdev/daily/issues/844) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+2. 💪 Opened PR [#12129](https://github.com/mdn/translated-content/pull/12129) in [mdn/translated-content](https://github.com/mdn/translated-content)
+3. ❗️ Opened issue [#5350](https://github.com/EddieHubCommunity/LinkFree/issues/5350) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🎉 Merged PR [#1](https://github.com/SiddheshBangar/SiddheshBangar/pull/1) in [SiddheshBangar/SiddheshBangar](https://github.com/SiddheshBangar/SiddheshBangar)
 5. 🗣 Commented on [#24314](https://github.com/mdn/content/issues/24314) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
