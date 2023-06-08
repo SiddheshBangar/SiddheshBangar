@@ -26,11 +26,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/SiddheshBangar/Farming-App/issues/1) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
-2. 🎉 Merged PR [#2](https://github.com/SiddheshBangar/Farming-App/pull/2) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
-3. 💪 Opened PR [#2](https://github.com/SiddheshBangar/Farming-App/pull/2) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
-4. 💪 Opened PR [#12528](https://github.com/mdn/translated-content/pull/12528) in [mdn/translated-content](https://github.com/mdn/translated-content)
-5. ❗ Opened issue [#1](https://github.com/SiddheshBangar/Farming-App/issues/1) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
+1. 💪 Opened PR [#7457](https://github.com/EddieHubCommunity/LinkFree/pull/7457) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🔒 Closed issue [#1](https://github.com/SiddheshBangar/Farming-App/issues/1) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
+3. 🎉 Merged PR [#2](https://github.com/SiddheshBangar/Farming-App/pull/2) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
+4. 💪 Opened PR [#2](https://github.com/SiddheshBangar/Farming-App/pull/2) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
+5. 💪 Opened PR [#12528](https://github.com/mdn/translated-content/pull/12528) in [mdn/translated-content](https://github.com/mdn/translated-content)
 <!--END_SECTION:activity-->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
