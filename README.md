@@ -26,7 +26,7 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7457](https://github.com/EddieHubCommunity/LinkFree/pull/7457) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🎉 Merged PR [#3](https://github.com/SiddheshBangar/SiddheshBangar/pull/3) in [SiddheshBangar/SiddheshBangar](https://github.com/SiddheshBangar/SiddheshBangar)
 2. 🔒 Closed issue [#1](https://github.com/SiddheshBangar/Farming-App/issues/1) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
 3. 🎉 Merged PR [#2](https://github.com/SiddheshBangar/Farming-App/pull/2) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
 4. 💪 Opened PR [#2](https://github.com/SiddheshBangar/Farming-App/pull/2) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
