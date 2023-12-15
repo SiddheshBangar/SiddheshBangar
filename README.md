@@ -1,10 +1,10 @@
 # Hey, Siddhesh here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-## I am an AI Researcher, Engineering Student and Content Creator
+## Student at Trinity College Dublin pursuing MSc. in Computer Science
 
-- 🌱 I’m currently learning Computer Vision and NLP 
+- 🌱 I’m currently learning more about AI and Computer Vision
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more into open source 
+- 🥅 2024 Goals: Create more online presence
 - ⚡ Fun fact: I love to draw and play guitar and sing sometimes
 - ✉️ You can drop me an email at siddheshb008@gmail.com
 
