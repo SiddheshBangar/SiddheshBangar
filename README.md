@@ -24,10 +24,10 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SiddheshBangar/SiddheshBangar/pull/3) in [SiddheshBangar/SiddheshBangar](https://github.com/SiddheshBangar/SiddheshBangar)
-2. 🔒 Closed issue [#1](https://github.com/SiddheshBangar/Farming-App/issues/1) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
-3. 🎉 Merged PR [#2](https://github.com/SiddheshBangar/Farming-App/pull/2) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
-4. 💪 Opened PR [#2](https://github.com/SiddheshBangar/Farming-App/pull/2) in [SiddheshBangar/Farming-App](https://github.com/SiddheshBangar/Farming-App)
+1. ❌ Closed PR [#33](https://github.com/mozilla/fxemoji/pull/33) in [mozilla/fxemoji](https://github.com/mozilla/fxemoji)
+2. 💪 Opened PR [#33](https://github.com/mozilla/fxemoji/pull/33) in [mozilla/fxemoji](https://github.com/mozilla/fxemoji)
+3. 🎉 Merged PR [#1](https://github.com/SiddheshBangar/fxemoji/pull/1) in [SiddheshBangar/fxemoji](https://github.com/SiddheshBangar/fxemoji)
+4. 💪 Opened PR [#1](https://github.com/SiddheshBangar/fxemoji/pull/1) in [SiddheshBangar/fxemoji](https://github.com/SiddheshBangar/fxemoji)
 5. 💪 Opened PR [#12528](https://github.com/mdn/translated-content/pull/12528) in [mdn/translated-content](https://github.com/mdn/translated-content)
 <!--END_SECTION:activity-->
 
