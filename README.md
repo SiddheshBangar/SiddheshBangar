@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FireDucks: Supercharging Pandas for Lightning-Fast Data Analysis](https://sidddhesh.hashnode.dev/fireducks-supercharging-pandas-for-lightning-fast-data-analysis)
 - [GoogLeNet](https://sidddhesh.hashnode.dev/googlenet)
 - [Resnet Architecture Explained](https://sidddhesh.hashnode.dev/resnet-architecture-explained)
 - [Microsoft&#39;s AI Market Takeover](https://sidddhesh.hashnode.dev/microsofts-ai-market-takeover)
 - [Page Rank: A Billion Dollar Code](https://sidddhesh.hashnode.dev/page-rank-a-billion-dollar-code)
-- [Is there a Roadmap for Data Science?](https://sidddhesh.hashnode.dev/is-there-a-roadmap-for-data-science)
 <!-- BLOG-POST-LIST:END -->
 
  <a href="https://medium.com/@siddheshb008"><img src="https://img.shields.io/badge/-Medium%20Blog-333333?style=flat-square&logo=Medium&logoColor=white"/></a>
