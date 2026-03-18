@@ -1,10 +1,8 @@
 # Hey, Siddhesh here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-## Student at Trinity College Dublin pursuing MSc. in Computer Science
+## AI Engineer at IBM, Dublin, Ireland
 
 - 🌱 I’m currently learning more about AI and Computer Vision
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Create more online presence
 - ⚡ Fun fact: I love to draw and play guitar and sing sometimes
 - ✉️ You can drop me an email at siddheshb008@gmail.com
 
