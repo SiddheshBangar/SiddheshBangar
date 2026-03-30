@@ -22,11 +22,11 @@
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Tarek729/mcp-context-forge/pull/5) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
-2. 💪 Opened PR [#5](https://github.com/Tarek729/mcp-context-forge/pull/5) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
-3. ❌ Closed PR [#4](https://github.com/Tarek729/mcp-context-forge/pull/4) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
-4. 💪 Opened PR [#4](https://github.com/Tarek729/mcp-context-forge/pull/4) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
-5. 💪 Opened PR [#1](https://github.com/Tarek729/mcp-context-forge/pull/1) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
+1. 💪 Opened PR [#7](https://github.com/Tarek729/mcp-context-forge/pull/7) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
+2. 🎉 Merged PR [#5](https://github.com/Tarek729/mcp-context-forge/pull/5) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
+3. 💪 Opened PR [#5](https://github.com/Tarek729/mcp-context-forge/pull/5) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
+4. ❌ Closed PR [#4](https://github.com/Tarek729/mcp-context-forge/pull/4) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
+5. 💪 Opened PR [#4](https://github.com/Tarek729/mcp-context-forge/pull/4) in [Tarek729/mcp-context-forge](https://github.com/Tarek729/mcp-context-forge)
 <!--END_SECTION:activity-->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
